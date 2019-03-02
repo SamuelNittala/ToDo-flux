@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  padding: 2px;
+  position: relative;
+  left: 15px;
+}
+input[type="text"] {
+  padding: 4px;
+  background: beige;
+  position: relative;
+  left: 10px;
+}
+h1 {
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: rgb(195, 152, 236);
+}
+li:hover {
+  color: rgb(43, 226, 43);
+}
+li {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 20px;
+  left: 0;
+  right: 0;
+  display: inline;
+  line-height: 2;
+  color: rgb(61, 206, 186);
+}
+input[type="checkbox"] {
+  position: relative;
+}
